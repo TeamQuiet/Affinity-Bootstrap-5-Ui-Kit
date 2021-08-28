@@ -14,50 +14,49 @@ The color palette is located under `/color-palettes` as `theme-colors.afpalette`
 | CSS Variable
 | Color Name
 
-| `#0d6efd`
+| [white]`#0d6efd`
 {set:cellbgcolor:#0d6efd}
 | `$primary`
 {set:cellbgcolor!}
 | Primary
 
-| `#6c757d`
+| [white]`#6c757d`
 {set:cellbgcolor:#6c757d}
 | `$secondary`
 {set:cellbgcolor!}
 | Secondary
 
-
-| `#198754`
+| [white]`#198754`
 {set:cellbgcolor:#198754}
 | `$secondary`
 {set:cellbgcolor!}
 | Success
 
-| `#dc3545`
+| [white]`#dc3545`
 {set:cellbgcolor:#dc3545}
 | `$danger`
 {set:cellbgcolor!}
 | Danger
 
-| `#ffc107`
+| [black]`#ffc107`
 {set:cellbgcolor:#ffc107}
 | `$warning`
 {set:cellbgcolor!}
 | Warning
 
-| `#0dcaf0`
+| [black]`#0dcaf0`
 {set:cellbgcolor:#0dcaf0}
 | `$info`
 {set:cellbgcolor!}
 | Info
 
-| `#f8f9fa`
+| [black]`#f8f9fa`
 {set:cellbgcolor:#f8f9fa}
 | `$light`
 {set:cellbgcolor!}
 | Light
 
-| `#212529`
+| [white]`#212529`
 {set:cellbgcolor:#212529}
 | `$dark`
 {set:cellbgcolor!}
@@ -75,11 +74,69 @@ The color palette is located under `/color-palettes` as `theme-colors.afpalette`
 | CSS Variable
 | Color Name
 
+// Blue
+
 | [white]`#0d6efd`
 {set:cellbgcolor:#0d6efd}
 | `$blue`
 {set:cellbgcolor!}
 | Blue
+
+| [black]`#cfe2ff`
+{set:cellbgcolor:#cfe2ff}
+| `$blue-100`
+{set:cellbgcolor!}
+| Blue 100
+
+| [black]`#9ec5fe`
+{set:cellbgcolor:#9ec5fe}
+| `$blue-200`
+{set:cellbgcolor!}
+| Blue 200
+
+| [black]`#6ea8fe`
+{set:cellbgcolor:#6ea8fe}
+| `$blue-300`
+{set:cellbgcolor!}
+| Blue 300
+
+| [black]`#3d8bfd`
+{set:cellbgcolor:#3d8bfd}
+| `$blue-400`
+{set:cellbgcolor!}
+| Blue 400
+
+| [white]`#0d6efd`
+{set:cellbgcolor:#0d6efd}
+| `$blue-500`
+{set:cellbgcolor!}
+| Blue 500
+
+| [white]`#0a58ca`
+{set:cellbgcolor:#0a58ca}
+| `$blue-600`
+{set:cellbgcolor!}
+| Blue 600
+
+| [white]`#084298`
+{set:cellbgcolor:#084298}
+| `$blue-700`
+{set:cellbgcolor!}
+| Blue 700
+
+| [white]`#052c65`
+{set:cellbgcolor:#052c65}
+| `$blue-800`
+{set:cellbgcolor!}
+| Blue 800
+
+| [white]`#031633`
+{set:cellbgcolor:#031633}
+| `$blue-900`
+{set:cellbgcolor!}
+| Blue 900
+
+// Indigo
 
 | [white]`#6610f2`
 {set:cellbgcolor:#6610f2}
@@ -87,11 +144,15 @@ The color palette is located under `/color-palettes` as `theme-colors.afpalette`
 {set:cellbgcolor!}
 | Indigo
 
+// Purple
+
 | [white]`#6f42c1`
 {set:cellbgcolor:#6f42c1}
 | `$purple`
 {set:cellbgcolor!}
 | Purple
+
+// Pink
 
 | [white]`#d63384`
 {set:cellbgcolor:#d63384}
@@ -99,11 +160,15 @@ The color palette is located under `/color-palettes` as `theme-colors.afpalette`
 {set:cellbgcolor!}
 | Pink
 
+// Red
+
 | [white]`#dc3545`
 {set:cellbgcolor:#dc3545}
 | `$red`
 {set:cellbgcolor!}
 | Red
+
+// Orange
 
 | [black]`#fd7e14`
 {set:cellbgcolor:#fd7e14}
@@ -111,11 +176,15 @@ The color palette is located under `/color-palettes` as `theme-colors.afpalette`
 {set:cellbgcolor!}
 | Orange
 
+// Yellow
+
 | [black]`#ffc107`
 {set:cellbgcolor:#ffc107}
 | `$yellow`
 {set:cellbgcolor!}
 | Yellow
+
+// Green
 
 | [white]`#198754`
 {set:cellbgcolor:#198754}
@@ -123,11 +192,15 @@ The color palette is located under `/color-palettes` as `theme-colors.afpalette`
 {set:cellbgcolor!}
 | Green
 
+// Teal
+
 | [black]`#20c997`
 {set:cellbgcolor:#20c997}
 | `$teal`
 {set:cellbgcolor!}
 | Teal
+
+// Cyan
 
 | [black]`#0dcaf0`
 {set:cellbgcolor:#0dcaf0}
@@ -135,12 +208,132 @@ The color palette is located under `/color-palettes` as `theme-colors.afpalette`
 {set:cellbgcolor!}
 | Cyan
 
+| [black]`#cff4fc`
+{set:cellbgcolor:#cff4fc}
+| `$cyan-100`
+{set:cellbgcolor!}
+| Cyan 100
+
+| [black]`#9eeaf9`
+{set:cellbgcolor:#9eeaf9}
+| `$cyan-200`
+{set:cellbgcolor!}
+| Cyan 200
+
+| [black]`#6edff6`
+{set:cellbgcolor:#6edff6}
+| `$cyan-300`
+{set:cellbgcolor!}
+| Cyan 300
+
+| [black]`#3dd5f3`
+{set:cellbgcolor:#3dd5f3}
+| `$cyan-400`
+{set:cellbgcolor!}
+| Cyan 400
+
+| [black]`#0dcaf0`
+{set:cellbgcolor:#0dcaf0}
+| `$cyan-500`
+{set:cellbgcolor!}
+| Cyan 500
+
+| [black]`#0aa2c0`
+{set:cellbgcolor:#0aa2c0}
+| `$cyan-600`
+{set:cellbgcolor!}
+| Cyan 600
+
+| [white]`#087990`
+{set:cellbgcolor:#087990}
+| `$cyan-700`
+{set:cellbgcolor!}
+| Cyan 700
+
+| [white]`#055160`
+{set:cellbgcolor:#055160}
+| `$cyan-800`
+{set:cellbgcolor!}
+| Cyan 800
+
+| [white]`#032830`
+{set:cellbgcolor:#032830}
+| `$cyan-900`
+{set:cellbgcolor!}
+| Cyan 900
+
+// Gray
+
 | [black]`#adb5bd`
 {set:cellbgcolor:#adb5bd}
 | `$gray-500`
 {set:cellbgcolor!}
 | Gray 500
 
+| [black]`#f8f9fa`
+{set:cellbgcolor:#f8f9fa}
+| `$gray-100`
+{set:cellbgcolor!}
+| Gray 100
+
+| [black]`#e9ecef`
+{set:cellbgcolor:#e9ecef}
+| `$gray-200`
+{set:cellbgcolor!}
+| Gray 200
+
+| [black]`#dee2e6`
+{set:cellbgcolor:#dee2e6}
+| `$gray-300`
+{set:cellbgcolor!}
+| Gray 300
+
+| [black]`#ced4da`
+{set:cellbgcolor:#ced4da}
+| `$gray-400`
+{set:cellbgcolor!}
+| Gray 400
+
+| [black]`#adb5bd`
+{set:cellbgcolor:#adb5bd}
+| `$gray-500`
+{set:cellbgcolor!}
+| Gray 500
+
+
+
+| [white]`#6c757d`
+{set:cellbgcolor:#6c757d}
+| `$gray-600`
+{set:cellbgcolor!}
+| Gray 600
+
+| [white]`#495057`
+{set:cellbgcolor:#495057}
+| `$gray-700`
+{set:cellbgcolor!}
+| Gray 700
+
+| [white]`#343a40`
+{set:cellbgcolor:#343a40}
+| `$gray-800`
+{set:cellbgcolor!}
+| Gray 800
+
+| [white]`#212529`
+{set:cellbgcolor:#212529}
+| `$gray-900`
+{set:cellbgcolor!}
+| Gray 900
+
+
+
+
+
+
+
+
+// Black & White
 
 | [white]`#000`
 {set:cellbgcolor:#000000}
