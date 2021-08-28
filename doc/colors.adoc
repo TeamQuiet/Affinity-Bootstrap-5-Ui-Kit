@@ -144,6 +144,60 @@ The color palette is located under `/color-palettes` as `theme-colors.afpalette`
 {set:cellbgcolor!}
 | Indigo
 
+| [black]`#e0cffc`
+{set:cellbgcolor:#e0cffc}
+| `$indigo-100`
+{set:cellbgcolor!}
+| Indigo 100
+
+| [black]`#c29ffa`
+{set:cellbgcolor:#c29ffa}
+| `$indigo-200`
+{set:cellbgcolor!}
+| Indigo 200
+
+| [black]`#a370f7`
+{set:cellbgcolor:#a370f7}
+| `$indigo-300`
+{set:cellbgcolor!}
+| Indigo 300
+
+| [white]`#8540f5`
+{set:cellbgcolor:#8540f5}
+| `$indigo-400`
+{set:cellbgcolor!}
+| Indigo 400
+
+| [white]`#6610f2`
+{set:cellbgcolor:#6610f2}
+| `$indigo-500`
+{set:cellbgcolor!}
+| Indigo 500
+
+| [white]`#520dc2`
+{set:cellbgcolor:#520dc2}
+| `$indigo-600`
+{set:cellbgcolor!}
+| Indigo 600
+
+| [white]`#3d0a91`
+{set:cellbgcolor:#3d0a91}
+| `$indigo-700`
+{set:cellbgcolor!}
+| Indigo 700
+
+| [white]`#290661`
+{set:cellbgcolor:#290661}
+| `$indigo-800`
+{set:cellbgcolor!}
+| Indigo 800
+
+| [white]`#140330`
+{set:cellbgcolor:#140330}
+| `$indigo-900`
+{set:cellbgcolor!}
+| Indigo 900
+
 // Purple
 
 | [white]`#6f42c1`
@@ -151,6 +205,68 @@ The color palette is located under `/color-palettes` as `theme-colors.afpalette`
 | `$purple`
 {set:cellbgcolor!}
 | Purple
+
+| [black]`#e2d9f3`
+{set:cellbgcolor:#e2d9f3}
+| `$purple-100`
+{set:cellbgcolor!}
+| Purple 100
+
+| [black]`#c5b3e6`
+{set:cellbgcolor:#c5b3e6}
+| `$purple-200`
+{set:cellbgcolor!}
+| Purple 200
+
+| [black]`#a98eda`
+{set:cellbgcolor:#a98eda}
+| `$purple-300`
+{set:cellbgcolor!}
+| Purple 300
+
+| [black]`#8c68cd`
+{set:cellbgcolor:#8c68cd}
+| `$purple-400`
+{set:cellbgcolor!}
+| Purple 400
+
+
+
+| [white]`#6f42c1`
+{set:cellbgcolor:#6f42c1}
+| `$purple-500`
+{set:cellbgcolor!}
+| Purple 500
+
+| [white]`#59359a`
+{set:cellbgcolor:#59359a}
+| `$purple-600`
+{set:cellbgcolor!}
+| Purple 600
+
+| [white]`#432874`
+{set:cellbgcolor:#432874}
+| `$purple-700`
+{set:cellbgcolor!}
+| Purple 700
+
+| [white]`#2c1a4d`
+{set:cellbgcolor:#2c1a4d}
+| `$purple-800`
+{set:cellbgcolor!}
+| Purple 800
+
+| [white]`#160d27`
+{set:cellbgcolor:#160d27}
+| `$purple-900`
+{set:cellbgcolor!}
+| Purple 900
+
+
+
+
+
+
 
 // Pink
 
