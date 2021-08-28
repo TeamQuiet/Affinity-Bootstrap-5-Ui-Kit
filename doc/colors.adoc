@@ -1,0 +1,157 @@
+# Colors
+
+link:https://getbootstrap.com/docs/5.0/customize/color/[Documentation]
+
+## Theme Colors
+
+The color palette is located under `/color-palettes` as `theme-colors.afpalette`.
+
+.Bootstrap Theme Colors
+[cols="1,2,2",options="header",frame="topbot",grid=none]
+|===
+
+| Color Code
+| CSS Variable
+| Color Name
+
+| `#0d6efd`
+{set:cellbgcolor:#0d6efd}
+| `$primary`
+{set:cellbgcolor!}
+| Primary
+
+| `#6c757d`
+{set:cellbgcolor:#6c757d}
+| `$secondary`
+{set:cellbgcolor!}
+| Secondary
+
+
+| `#198754`
+{set:cellbgcolor:#198754}
+| `$secondary`
+{set:cellbgcolor!}
+| Success
+
+| `#dc3545`
+{set:cellbgcolor:#dc3545}
+| `$danger`
+{set:cellbgcolor!}
+| Danger
+
+| `#ffc107`
+{set:cellbgcolor:#ffc107}
+| `$warning`
+{set:cellbgcolor!}
+| Warning
+
+| `#0dcaf0`
+{set:cellbgcolor:#0dcaf0}
+| `$info`
+{set:cellbgcolor!}
+| Info
+
+| `#f8f9fa`
+{set:cellbgcolor:#f8f9fa}
+| `$light`
+{set:cellbgcolor!}
+| Light
+
+| `#212529`
+{set:cellbgcolor:#212529}
+| `$dark`
+{set:cellbgcolor!}
+| Dark
+
+|===
+
+## All Colors
+
+.Bootstrap All Colors
+[cols="1,2,2",options="header",frame="topbot",grid=none]
+|===
+
+| Color Code
+| CSS Variable
+| Color Name
+
+| [white]`#0d6efd`
+{set:cellbgcolor:#0d6efd}
+| `$blue`
+{set:cellbgcolor!}
+| Blue
+
+| [white]`#6610f2`
+{set:cellbgcolor:#6610f2}
+| `$indigo`
+{set:cellbgcolor!}
+| Indigo
+
+| [white]`#6f42c1`
+{set:cellbgcolor:#6f42c1}
+| `$purple`
+{set:cellbgcolor!}
+| Purple
+
+| [white]`#d63384`
+{set:cellbgcolor:#d63384}
+| `$pink`
+{set:cellbgcolor!}
+| Pink
+
+| [white]`#dc3545`
+{set:cellbgcolor:#dc3545}
+| `$red`
+{set:cellbgcolor!}
+| Red
+
+| [black]`#fd7e14`
+{set:cellbgcolor:#fd7e14}
+| `$orange`
+{set:cellbgcolor!}
+| Orange
+
+| [black]`#ffc107`
+{set:cellbgcolor:#ffc107}
+| `$yellow`
+{set:cellbgcolor!}
+| Yellow
+
+| [white]`#198754`
+{set:cellbgcolor:#198754}
+| `$green`
+{set:cellbgcolor!}
+| Green
+
+| [black]`#20c997`
+{set:cellbgcolor:#20c997}
+| `$teal`
+{set:cellbgcolor!}
+| Teal
+
+| [black]`#0dcaf0`
+{set:cellbgcolor:#0dcaf0}
+| `$cyan`
+{set:cellbgcolor!}
+| Cyan
+
+| [black]`#adb5bd`
+{set:cellbgcolor:#adb5bd}
+| `$gray-500`
+{set:cellbgcolor!}
+| Gray 500
+
+
+| [white]`#000`
+{set:cellbgcolor:#000000}
+| `$black`
+{set:cellbgcolor!}
+| Black
+
+| [black]`#fff`
+{set:cellbgcolor:#ffff}
+| `$white`
+{set:cellbgcolor!}
+| White
+
+|===

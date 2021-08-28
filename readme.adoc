@@ -1,0 +1,6 @@
+# Bootstrap 5 UI Kit for Affinity Designer
+:toc:
+:sectnums:
+
+include::doc/colors.adoc[leveloffset=1]
+
